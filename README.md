@@ -1,2 +1,2 @@
-# MVVMTemplate
-一个快速创建vc控制器和VM类的xcode模版
+#Xcode-Template
+# 使用方法： 终端输入 sh install.sh
